@@ -31,6 +31,5 @@ Use LSB algorithm to insert secret message to audio file (*.WAV)
 	Name:		Nguyen Hoang Son
 	MSSV:		N14DCAT137
 	Email:		sonnh0196@gmail.com
-	SĐT:		(+84) 162 936 2887
 
 !!! CONTACT ME !!!
