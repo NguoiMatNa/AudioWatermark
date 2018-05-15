@@ -9,7 +9,9 @@ Use LSB algorithm to insert secret message to audio file (*.WAV)
 		post_max_size=50M
 	when run.
 
-	* Format of *.WAV file need to have Header, Subchunk1, Subchunk2, Subchunk3. Subchunk2 (SubchunkID = "LIST") is optional but I need it!!! Let's use demo file named "Huỳnh James - Cho Họ Ghét Đi Em (nhạc gốc).wav" in project's folder.
+	* Create database "audiowatermarkdemo" before import database if import failed.
+
+	* Format of *.WAV file need to have Header, Subchunk1, Subchunk2, Subchunk3. Subchunk2 (SubchunkID = "LIST") is optional but I need it!!! Let's use demo file named "Hồ Quang Hiếu - Em Chưa Từng Biết.wav" in project's music folder.
 
 	* All audio files, which is uploaded to and downloaded from, are stored in my Google Drive (I used Google Drive API). You can change to your Google Drive by changing file called "service_account_keys.json" to your Service Account Keys JSON.
 
@@ -25,8 +27,10 @@ Use LSB algorithm to insert secret message to audio file (*.WAV)
 
 !!! CONTACT ME !!!
 	
-	Facebook:	https://www.facebook.com/fvoxuankhang
-	Email:		khangvoxuan@gmail.com
+	Facebook:	https://www.facebook.com/thangiap.nguyen
+	Name:		Nguyen Hoang Son
+	MSSV:		N14DCAT137
+	Email:		sonnh0196@gmail.com
 	SĐT:		(+84) 162 936 2887
 
 !!! CONTACT ME !!!
